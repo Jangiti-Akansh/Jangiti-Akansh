@@ -1,3 +1,4 @@
+![logo](https://github.com/Jangiti-Akansh/Jangiti-Akansh/blob/main/image.png)
 <h1 align="center">Hi 👋, I'm Jangiti Akansh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
