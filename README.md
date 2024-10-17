@@ -1,14 +1,14 @@
 ![logo](https://github.com/Jangiti-Akansh/Jangiti-Akansh/blob/main/image.png)
 <h1 align="center">Hi 👋, I'm Jangiti Akansh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <img align="right" alt = "coding" width = "400" src = "https://media.giphy.com/media/84U5XbAPpNKxy/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jangiti-akansh&label=Profile%20views&color=0e75b6&style=flat" alt="jangiti-akansh" /> </p>
 
-- 🌱 I’m currently learning **Databases, NodeJS**
+- 🌱 I’m currently learning **TypeScript**
 
-- 💬 Ask me about **Frontend development, Programming.**
+- 💬 Ask me about **Full Stack development, Programming.**
 
 - 📫 How to reach me **akanshj99@gmail.com**
 
